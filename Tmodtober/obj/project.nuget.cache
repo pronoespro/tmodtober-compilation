@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Adta47A4qGURq1RjbdbEWQrK7DzE7njQRcpc4GTJpCmG2yJFAZKL86gXZyjUqjkAeR94m3AmvnUmCU0gvseOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tmodtober\\Tmodtober.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\cesar\Documents\My Games\Terraria\tModLoader\ModSources\Tmodtober\obj\Debug\net5.0\Tmodtober.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\My Games\Terraria\tModLoader\ModSources\Tmodtober\obj\Debug\net5.0\Tmodtober.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\My Games\Terraria\tModLoader\ModSources\Tmodtober\obj\Debug\net5.0\Tmodtober.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\My Games\Terraria\tModLoader\ModSources\Tmodtober\obj\Debug\net5.0\Tmodtober.AssemblyInfo.cs
+C:\Users\cesar\Documents\My Games\Terraria\tModLoader\ModSources\Tmodtober\obj\Debug\net5.0\Tmodtober.csproj.CoreCompileInputs.cache

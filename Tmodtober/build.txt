@@ -1,0 +1,3 @@
+displayName = Tmodtober Compilation
+author = PronoesPro
+version = 1.0.0

@@ -1,0 +1,39 @@
+The ultimate compilation of the mods I made for a self-imposed challenge called "Tmodtober" in which I attempted to make a mod for every day of the month.
+This is the version that has a lot of fixes and balancing changes done to it, the original mods are still up.
+Also, this version will get more updates if you think something is broken or not working as intended and leave a comment, thanks!
+
+I failed at the last day with the last mod and it took me more than a week to finish it.
+Anyways, enjoy!
+
+Mods that are included:
+	-Medusa's Power (day 1, "Marble")
+	-Granite Puncher Gun (day 2, "Granite")
+	-Town Defender (day  3, "Town")
+	-Player Party (day 4, "Party")
+	-Don't Break Tombstones (day 5, "Death")
+	-Living Fire Furniture (day 6, "Fire")
+	-Snow Outpost (day 7, "Ice")
+	-Very basic bard mechanics (day 8, "song")
+	-Pro's Sorceress NPC (day 9, "Magic")
+	-Heavenstone (day 10, "Stone")
+	-Dryad's Reward (day 11, "Jungle")
+	-Hooker NPC (day 12, "Fish")
+	-Shadow Corruption Debuff (day 13, "Dark")
+	-Star Bullets (day 14, "Bullet")
+	-Moonster Energy Drink (day 15, "Monster")
+	-Spirit Critter (day 16, "Critter")
+	-Paintbrush Upgrade (day 17, "Colour/Color")
+	-Farm Bell (day 18, "Farm")
+	-Moon Heart Life Upgrade (day 19, "Life")
+	-Boss Weak Points (day 20, "Deffense")
+	-Terraria's Might Incarnate (day 21, "Power")
+	-Break Blocks quick (day 22, "break")
+	-Golem's Quickest Rework (day 23, "Transform")
+	-Cross Necklace Upgrade (day 24, "Cross")
+	-Death Scythe Upgrade (day 25, "Weapon")
+	-Heartbreak Debuff Mod (day 26, "Heart")
+	-Danny Phantom Powers (day 27, "Soul")
+	-Lagann Drill Enemy (day 28, "Mining")
+	-Items Fight Back (day 29, "Enemy")
+	-Terra Golf Club (day 30, "Ultimate")
+	-Bunny NPC (day 31, "Mini-boss", the one that took a week)

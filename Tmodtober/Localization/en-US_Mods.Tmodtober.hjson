@@ -1,0 +1,387 @@
+Buffs: {
+	FarSingBuff: {
+		DisplayName: Far Sing Buff
+		Description: Mods.Tmodtober.Buffs.FarSingBuff.Description
+	}
+
+	CloseSingBuff: {
+		Description: Mods.Tmodtober.Buffs.CloseSingBuff.Description
+		DisplayName: Close Sing Buff
+	}
+
+	MidSingBuff: {
+		Description: Mods.Tmodtober.Buffs.MidSingBuff.Description
+		DisplayName: Mid Sing Buff
+	}
+
+	DarkCorruptionDebuff: {
+		DisplayName: Dark Corruption Debuff
+		Description: Mods.Tmodtober.Buffs.DarkCorruptionDebuff.Description
+	}
+
+	HeartbreakDebuff: {
+		Description: Mods.HeartbrokeDebuffMod.Buffs.HeartbreakDebuff.Description
+		DisplayName: Heartbreak Debuff
+	}
+
+	MedusaHeadMinionBuff: {
+		DisplayName: Medusa Head Minion Buff
+		Description: Mods.Tmodtober.Buffs.MedusaHeadMinionBuff.Description
+	}
+
+	LaunchedDebuff: {
+		DisplayName: Launched Debuff
+		Description: Mods.Tmodtober.Buffs.LaunchedDebuff.Description
+	}
+}
+
+Keybinds: {
+	Sing.DisplayName: Sing
+	"Trigger Phantom Powers (if available).DisplayName": Trigger  Phantom  Powers (if available)
+	"Party menu.DisplayName": Party menu
+	"Trigger Blessing (if available).DisplayName": Trigger  Blessing (if available)
+	Trigger.DisplayName: Terraria's Might Trigger
+	"Terraria Trigger.DisplayName": Terraria Trigger
+}
+
+Configs: {
+	BlockBreakConfig: {
+		DisplayName: Block Break Configuration
+
+		blockBreakActive: {
+			Label: block Break Active
+			Tooltip: If you need to break blocks in a specific time to survive, just a fun little extra for chaos
+		}
+
+		breakTimer: {
+			Label: Block Break Timer
+			Tooltip: The time (in seconds) until you die if you don't break blocks
+		}
+
+		breakTimeLowerer: {
+			Label: Block Break Time Penalty
+			Tooltip: The time (int frames) that will be lowered to the maximum timer when you break a block
+		}
+	}
+
+	BardPlayerConfig: {
+		DisplayName: Bard Player Configuration
+
+		doSingSounds: {
+			Label: Listen to singing sounds
+			Tooltip: If you hear the sounds of players singing or not
+		}
+	}
+
+	PhantomConfig: {
+		DisplayName: Phantom Configuration
+
+		showPhantomPower: {
+			Label: show Phantom Power
+			Tooltip: Show phantom power if unlocked and you have any charged
+		}
+	}
+
+	ItemsFightBackConfig: {
+		DisplayName: Items Fight Back Configuration
+
+		itemsFightBack: {
+			Label: items Fight Back
+			Tooltip: Enable items fighting back
+		}
+
+		playerMinDistance: {
+			Label: player Min Distance
+			Tooltip: The items' player detection distance
+		}
+	}
+
+	PartyConfig: {
+		DisplayName: Party Config
+
+		partyChance: {
+			Label: party Chance
+			Tooltip: ""
+		}
+	}
+}
+
+NPCs: {
+	BunnyBoss_FightForm.DisplayName: Arianel the Terrarian Killer
+	Bunnygirl_Default.DisplayName: Arianel the Bunnygirl
+	ArianelExplosiveBunny.DisplayName: Arianel the Explosive Bunny
+	Spirit.DisplayName: Spirit
+	Hooker.DisplayName: Hooker
+	Lagann.DisplayName: Lagann
+
+	Sorceress: {
+		DisplayName: Sorceress
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: On the road again. At least I'm not acompanied by a semi-orc this time!
+			FarFromHome: How far is the nearest town? I want to scam... I mean, sell my wares.
+			LoveSpace: So much space. I can set things on fire without anyone stopping me!
+			DislikeCrowded: At least it's easy to hide from the guards like this.
+			HateCrowded: Ok, I like hiding, but this might be a little but much.
+			LikeNPC_Princess: Did you know {NPCName} really hides her stuff poorly? I love it.
+			Princess_LovesNPC: I like {NPCName}. She seems fun and sparkly!
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+		}
+	}
+
+	TownDefender.DisplayName: Town Defender
+}
+
+Bestiary.Sorceress: Never keep any powerfull cubes in your pockets near her.
+
+Dialogue: {
+	Sorceress: {
+		PartyGirlDialogue: Can you believe {0} doesn't believe I can polymorph? Wait, you don't either? Perfect.
+		GuideDialogue: If {0} is always keeping track of me, how am I supposed to have fun?
+		StandardDialogue1: Buy this angel statue! I just found it, but it sings you lullabies at night, I promise.
+		StandardDialogue2: I can turn into a fire elemental, but I won't. I spent months like one.
+		StandardDialogue3: Hells comming with me when I get back my family's home.
+		CommonDialogue: What? These coins right here? They are definitely not from your pocket.
+		RareDialogue: You roll charisma to lower my prices, but get a nat 1, so they are now higher. JOKING!
+		TalkALot: Are you a guard in disguise? If not you are just annoying.
+		KairasDialogue1: This glittering sand in a bottle will make you jump super high and deffeat dark trees.
+		KairasDialogue2: That dumb cube of Olidammara could have teleported me somewhere closer to home.
+		KairasDialogue3: I am not a racoon. I am better than a racoon, I'm a dark elf with racoon makeup.
+	}
+}
+
+Projectiles: {
+	Bunnygirl_Carrot.DisplayName: Giant Carrot
+	Bunnygirl_tree.DisplayName: Tree
+	BunnyProjectile.DisplayName: Bunny Projectile
+	HolyCross_projectile.DisplayName: Holy Cross
+	MightSummonCircle.DisplayName: Might Summon Circle
+	Terrarias_Might.DisplayName: Terrarias Might
+	GraniteBullet.DisplayName: Granite Bullet
+	GraniteLazer.DisplayName: Granite Lazer
+	GraniteShockwave.DisplayName: Granite Shockwave
+	MightProjectile.DisplayName: Terrarian's Might
+	StarBullet.DisplayName: Star Bullet
+	Heaverang.DisplayName: Heaverang
+	PaintProjectile.DisplayName: Paint Projectile
+	MedusaSight.DisplayName: Medusa Sight
+	TerraGolfBlubProjectile.DisplayName: Terra Golf Blub Projectile
+	HeavenswardLance_Projectile.DisplayName: Heavensward Lance_ Projectile
+}
+
+Items: {
+	SoulReaperScythe: {
+		DisplayName: Soul Reaper Scythe
+		Tooltip:
+			'''
+			On the tenth attack, you become an impervious ball of fire
+			Ramming into enemies deals damage
+			'''
+	}
+
+	GhostPortal: {
+		DisplayName: Ghost Portal
+		Tooltip:
+			'''
+			Teleports you to the spirit realm...
+			Is what it would do if it worked
+			Gives you ghost powers
+			'''
+	}
+
+	HolyCross: {
+		DisplayName: Holy Cross
+		Tooltip: ""
+	}
+
+	Weights: {
+		DisplayName: Weights
+		Tooltip: Buffs up a bunny if used on it
+	}
+
+	CritterBell: {
+		DisplayName: Farm Bell
+		Tooltip: Can summon nearby critters
+	}
+
+	AnimalTag: {
+		DisplayName: Animal Tag
+		Tooltip:
+			'''
+			To have a cute pet for you
+			Use on critters to make them your pet
+			Doesn't make them immortal
+			'''
+	}
+
+	Spirit_item: {
+		DisplayName: Spirit
+		Tooltip: ""
+	}
+
+	GranitePuncher_Item: {
+		DisplayName: Granite Puncher Item
+		Tooltip: ""
+	}
+
+	StarBullet_Item: {
+		DisplayName: Star Bullet Item
+		Tooltip: Creates a circle of stars that dash through enemies
+	}
+
+	First_Blade: {
+		DisplayName: First Blade
+		Tooltip: ""
+	}
+
+	Heavenly_Pickaxe: {
+		DisplayName: Heavenly Pickaxe
+		Tooltip: ""
+	}
+
+	Heavenstone: {
+		DisplayName: Heavenstone
+		Tooltip: ""
+	}
+
+	Heavenstone_Bar: {
+		DisplayName: Heavenstone Bar
+		Tooltip: ""
+	}
+
+	Heaverang: {
+		DisplayName: Heaverang
+		Tooltip: ""
+	}
+
+	HolyCross_blade: {
+		DisplayName: Holy Cross Blade
+		Tooltip: ""
+	}
+
+	Paulatena_Bow: {
+		DisplayName: Paulatena Bow
+		Tooltip: ""
+	}
+
+	Sky_Hamaxe: {
+		DisplayName: Sky Hamaxe
+		Tooltip: ""
+	}
+
+	HolyCrossBlade: {
+		DisplayName: Holy Cross Blade
+		Tooltip: ""
+	}
+
+	Heavenforge_Item: {
+		DisplayName: Heavenforge Item
+		Tooltip: ""
+	}
+
+	GiantPaintbrush: {
+		DisplayName: Giant Paintbrush
+		Tooltip: ""
+	}
+
+	LivingFireBench_item: {
+		DisplayName: Living Fire Bench
+		Tooltip: Fire to share!
+	}
+
+	LivingFireChair_item: {
+		DisplayName: Living Fire Chair
+		Tooltip: Too hot to sit on... or is it?
+	}
+
+	LivingFirePiano_item: {
+		DisplayName: Living Fire Piano
+		Tooltip:
+			'''
+			This music is just fire!
+			Is what I would say if you knew how to play
+			'''
+	}
+
+	LivingFireTable_item: {
+		DisplayName: Living Fire Table
+		Tooltip: It's hot, everything's hot
+	}
+
+	MedusaHelmet: {
+		DisplayName: Medusa Helmet
+		Tooltip: Everything I see turns to stone
+	}
+
+	MoonHeart: {
+		DisplayName: Moon Heart
+		Tooltip: ""
+	}
+
+	MoonsterEnergyDrink: {
+		DisplayName: Moonster Energy Drink
+		Tooltip:
+			'''
+			Permanently increases run speed and acceleration 
+			You don't ever want to touch it again after even one sip
+			'''
+	}
+
+	PlayerPartyPresent: {
+		DisplayName: Player Party Present
+		Tooltip:
+			'''
+			Right click to get a gift
+			and read a note from the sender
+			'''
+	}
+
+	TerraGolfClub: {
+		DisplayName: Terra Golf Club
+		Tooltip: Swing your enemies away like a ball
+	}
+
+	SkyDragoonHelmet: {
+		DisplayName: Sky Dragoon Helmet
+		Tooltip:
+			'''
+			 Nidhogg's eye is not in your possesion
+			But you could strike him down
+			'''
+		SetBonus:
+			'''
+			Negates fall damage
+			Increases jump power
+			Immune to the On Fire debuff
+			Increased melee damage
+			'''
+	}
+
+	SkyDragoonChestpiece: {
+		DisplayName: Sky Dragoon Chestpiece
+		Tooltip:
+			'''
+			Great protection from dragon attacks
+			Unluckily there are no real dragons here
+			'''
+	}
+
+	SkyDragoonLeggings: {
+		DisplayName: Sky Dragoon Leggings
+		Tooltip: ""
+	}
+
+	HeavenswardLance: {
+		DisplayName: Heavensward Lance
+		Tooltip: A dragoon weapon that allows for powerful jumps
+	}
+}
+
+Tiles.Heavenstone_ore.MapEntry: Heavenstone ore
+DropConditions.MoonLord: Drops after moon lord has been defeated

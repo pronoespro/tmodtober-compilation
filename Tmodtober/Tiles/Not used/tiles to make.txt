@@ -1,0 +1,84 @@
+-bench-
+-chair-
+-table-
+-piano-
+
+-torch
+-door
+-anvil
+-workbench
+-platform?
+-chest
+-sunflower?
+-pot?
+-piggibank?
+-candle
+-candelabra
+-roof lamp
+-blue candle
+-book
+-sign
+-flower
+-vines?
+-thorns?
+-grass?
+-plant pot?
+-bed
+-tombstone
+-cloth stuff?
+-dresser
+-bathhub
+-banner
+-lamppost
+-lamp
+-cooking pot
+-candel (3 way)
+-bookshelf
+-throne?
+-dishes
+-clock
+-statue?
+-sawmill?
+-tinkerers workshop
+-magic ball?
+-disco ball
+-boulder
+-Music box?
+-tnt
+-stalactites
+-sink?
+-gem?
+-moss?
+-rocks?
+-treasure rock?
+-magic sword shrine?
+-water fountains?
+-cannon?
+-ropes?
+-campfire
+-fireworks?
+-extractinator?
+-solidifier?
+-dye maker?
+-bush?
+-teleporter?
+-life fruit?
+-solar altar?
+-plantera bulb?
+-ingot?
+-trophy/painting?
+-pumpkins?
+-firefly lamp?
+-critter cage?
+-fish bowl?
+-heavy workshop?
+-ammo box?
+-cloud workshop?
+-honey workshop?
+-bewetching station
+-alchemy table
+-sundial
+-crate
+-sharpening station
+-fireplace
+-chiminy
